@@ -3,7 +3,7 @@ Welcome to the Air_Quality_Index_(AQI)_Across_Cities_2024 repository!
 This project focuses on analyzing the air quality of various cities through a dashboard visualization, offering deep insights into pollution trends and environmental health.
 
 ## Preview
-![Dashboard](https://github.com/Akaash0107/Rupashree-Store-Data-Analysis/blob/main/Rupashree%20_Store_Data_Analysis_Dashboard.png)
+![Dashboard](https://github.com/Akaash0107/AQI_Report_Analysis/blob/main/Air_Quality_Index_(AQI)_Across_Cities_Dashboard.png)
 
 ## Project Objective
 The goal is to provide a detailed analysis of the Air Quality Index (AQI) across multiple cities in 2024.
