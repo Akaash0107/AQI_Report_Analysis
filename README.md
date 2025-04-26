@@ -14,58 +14,66 @@ Through this project, I enhanced my skills in data visualization and dashboard c
 Special thanks to the online community and resources that guided me throughout the project journey.
 
 ## Tools Used
-Jupyter Notebook
-Python (Pandas, Numpy)
+Jupyter Notebook,
+Python (Pandas, Numpy),
 Matplotlib & Seaborn (for data visualization)
 
-Project Structure
-1. Raw Data
+## Project Structure
+## 1. Raw Data
 Air_Quality_Data_2020-2024.xlsx: Contains AQI records collected from various Indian cities over the years, including PM2.5, PM10, NO2, and other pollutants.
 
-2. Dashboard
+## 2. Dashboard
 Air_Quality_Index_Across_Cities_2024.png: The final visualization showing AQI distribution, top/bottom cities, and trends.
 
-Questions (KPIs)
-Which city has the worst air quality in 2024?
+## Questions (KPIs)
+## Which city has the worst air quality in 2024?
 
-Which city has the best air quality?
+## Which city has the best air quality?
 
-What is the average AQI across all cities?
+## What is the average AQI across all cities?
 
-Which months recorded the highest pollution levels?
+## Which months recorded the highest pollution levels?
 
-Which pollutant (PM2.5, PM10, etc.) contributed most to the AQI?
+## Which pollutant (PM2.5, PM10, etc.) contributed most to the AQI?
 
-How does AQI trend vary seasonally across cities?
+## How does AQI trend vary seasonally across cities?
 
-Top 5 most polluted and least polluted cities.
-
-Process
+## Process
 Understanding Business Problem: Addressing the need to monitor and visualize air quality trends across cities.
 
-Data Cleaning: Handled missing values, corrected anomalies, and standardized city names.
+## Data Cleaning: 
+Handled missing values, corrected anomalies, and standardized city names.
 
-Data Processing: Aggregated monthly and yearly AQI data to identify patterns.
+## Data Processing: 
+Aggregated monthly and yearly AQI data to identify patterns.
 
-Data Analysis: Calculated averages, rankings, and seasonal variations.
+## Data Analysis: 
+Calculated averages, rankings, and seasonal variations.
 
-Data Visualization: Designed a clean, interactive dashboard using Excel for easy interpretation.
+## Data Visualization: 
+Designed a clean, interactive dashboard using Excel for easy interpretation.
 
-Insights or Results: Final output is an insightful dashboard with key environmental indicators.
+## Insights or Results: 
+Final output is an insightful dashboard with key environmental indicators.
 
-Sample Insight
-🌆 Most Polluted City: Delhi reported the highest AQI levels consistently across multiple months.
+## Insight
+## 🌆 Most Polluted City: 
+Delhi reported the highest AQI levels consistently across multiple months.
 
-🌿 Cleanest City: Shimla and Kochi recorded the lowest average AQI levels, indicating cleaner air.
+## 🌿 Cleanest City: 
+Bengaluru  recorded the lowest average AQI levels, indicating cleaner air.
 
-📅 Seasonal Trends: Pollution peaked during the winter months (November-December) due to low wind speeds and stubble burning.
+## 📅 Seasonal Trends: 
+Pollution peaked during the winter months (November-December) due to low wind speeds and stubble burning.
 
-🧪 Dominant Pollutants: PM2.5 and PM10 were the primary pollutants contributing to poor air quality.
+## 🧪 Dominant Pollutants: 
+PM2.5 and PM10 were the primary pollutants contributing to poor air quality.
 
-📊 City-wise Analysis: Northern cities showed significantly higher AQI levels compared to southern cities.
+## 📊 City-wise Analysis: 
+Northern cities showed significantly higher AQI levels compared to southern cities.
 
-Conclusion & Recommendations
-To improve air quality:
+## Conclusion & Recommendations
+## To improve air quality:
 
 Increase green cover in highly polluted cities through urban forestry programs.
 
